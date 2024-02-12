@@ -5,8 +5,8 @@ function NavBer() {
     <div><header className="p-4 bg-slate-200 text-gray-900">
 	<div className="container flex justify-between h-16 mx-auto">
 		
-		<a rel="noopener noreferrer" href="#" aria-label="Back to homepage" className="flex items-center p-2">
-			<img className='w-48' src="/Siwon logo.png" alt="siwon" />
+		<a rel="noopener noreferrer" href="#" aria-label="Back to homepage" className="flex items-center p-2 md:w-64 ">
+			<img className=' '  width={200} src="/Siwon logo.png" alt="siwon" />
 		</a>
 		<div className="flex items-center md:space-x-4">
 			<div className="relative">
